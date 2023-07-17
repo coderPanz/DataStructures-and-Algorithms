@@ -1,2 +1,2 @@
 # DataStructures-and-Algorithms
-JS-Version
+JS数据结构和算法
